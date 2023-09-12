@@ -43,9 +43,9 @@ break;
 case 12:
 printf ("December\n");
 break;
+default:
+printf("mes invalido\n");
 }
 
-
-
-    return 0;
+return 0;
 }
